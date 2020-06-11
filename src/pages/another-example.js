@@ -1,14 +1,14 @@
 import React from "react"
 
-import Orgchart from "../components/Orgchart.jsx"
+import Orgchart2 from "../components/Orgchart2.jsx"
 import Header from "../components/header"
 
 import "bootstrap/dist/css/bootstrap.min.css"
-const IndexPage = () => (
+const AnotherExample = () => (
   <div>
     <Header />
-    <Orgchart />
+    <Orgchart2 />
   </div>
 )
 
-export default IndexPage
+export default AnotherExample
